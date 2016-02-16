@@ -1,0 +1,3 @@
+app/design/frontend/base/default/template/catalog/product/widget/multiproducts app/design/frontend/base/default/template/catalog//product/widget/multiproducts
+app/etc/modules/Dio5_Multiproducts.xml app/etc/modules/Dio5_Multiproducts.xml
+app/code/community/Dio5/Multiproducts app/code/community/Dio5/Multiproducts
